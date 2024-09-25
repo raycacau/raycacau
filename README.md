@@ -1,6 +1,6 @@
 ## oii galera 
 meu nome é rayani mas as pessoas me chamam de ray, tenho 15 anos e faço curso técnico de marketing com a parça Marina crochêteira, e gosto bastante de dormir.
-![]()
+![](https://github.com/user-attachments/assets/7819ead9-21be-4690-a590-439db40c2346)
 
 <!--
 **raycacau/raycacau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
